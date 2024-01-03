@@ -13,31 +13,31 @@ This project is a Logistic Regression credit risk model based on consumer lendin
 
 This code snippet takes cash collection amount of different consumer lending product line and create a view that conforms to the format of the accounting software to enable more efficient accounting process.
 
-** 3. Python PowerBI_Premier League Dashboard from public API **
+**3. Python PowerBI_Premier League Dashboard from public API**
 
 This project contains a Python code to get the Premier League players data from public API, flatten the data and save as CSV to Onedrive. The data is then used to create Power BI dashboard. 
 
-** 4. Python _ Customer stock trading data manipulation **
+**4. Python _ Customer stock trading data manipulation**
 
 This code performs data manipulation on customer historical data to serve further data mining into customers behavior ( such as assets movement, correlation between customers activity and market activity)
 
-** 5. Python _ Harry Potter Movies dataset **
+**5. Python _ Harry Potter Movies dataset**
 
 This hobby project code performs some basic exploratory data analysis into the Harry Potter movies series.
 
-** 6. VBA _ Formating bank statements from multiple banks **
+**6. VBA _ Formating bank statements from multiple banks**
 
 This VBA code snippet performs data cleaning for bank statements from different banks, turning them into one single format for accountants to easily perform check on cash balance.
 
-** 7. Excel _ Financial modelling and forecasting **
+**7. Excel _ Financial modelling and forecasting**
 
 This Excel model simulates a financial plan for a product line for a period of 2 years
 
-** 8. Tableau _ Practice dashboards **
+**8. Tableau _ Practice dashboards**
 
 Some dashboards made in Tableau using public dataset for dashboarding practice purpose
 
-** 9. Python _ Booking.com Web scraping using Selenium **
+**9. Python _ Booking.com Web scraping using Selenium**
 
 Booking.com web scraping code based on freecodecamp tutorial.  
 
