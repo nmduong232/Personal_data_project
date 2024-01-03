@@ -2,7 +2,7 @@
 
 ## About me
 Welcome to my personal data portfolio. I am a Data Analyst / Business Intelligence Analyst coming from an accounting background with 3 years in financial audit at EY.
-My current skills include SQL, Python, PowerBI and other dashboarding tool, Advanced Excel, Statistics. I am looking for more data integration, data pipeline work with the aim of becoming a Business Intelligence in the future.
+My current skills include SQL, Python, PowerBI and other dashboarding tool, Advanced Excel, Statistics. I am looking for more data integration, data pipeline work with the aim of becoming a Business Intelligence Manager in the future.
 
 ## Projects Overview
 
