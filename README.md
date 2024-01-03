@@ -6,6 +6,7 @@ My current skills include SQL, Python, PowerBI and other dashboarding tool, Adva
 ## Project overview: 
 
 **1. Python _ Credit risk scoring project**
+
 This project is a Logistic Regression credit risk model based on consumer lending data. The project includes data cleaning, testing the statistical significance of each variable, building the Logistic Regression model.
 
 **2. SQL _ Revenue View from datawarehouse to accounting software**
