@@ -2,7 +2,7 @@
 
 ## About me
 Welcome to my personal data portfolio. I am a Data Analyst / Business Intelligence Analyst with several years of experience. Before working in data I have an accounting background (3 years in financial audit).
-My current skills include SQL, Python, PowerBI and other dashboarding tool, Advanced Excel, Statistics. I am looking for more data integration, data pipeline work with the aim of becoming a Business Intelligence Manager in the future.
+My current skills include SQL, Python, PowerBI and other dashboarding tools, Advanced Excel, Statistics. I am looking for more data integration, data pipeline work with the aim of becoming a Business Intelligence Manager in the future.
 
 ## Projects Overview
 
