@@ -1,7 +1,7 @@
 # Personal data project
 
 ## About me
-Welcome to my personal data portfolio. I am a Data Analyst / Business Intelligence Analyst with several years of experience. Before working in data I have an accounting background (3 years in financial audit).
+Welcome to my personal data portfolio. I am a Data Analyst / Business Intelligence Analyst with several years of experience. Before working in data I have an accounting background (3 years in financial audit at EY).
 My current skills include SQL, Python, PowerBI and other dashboarding tools, Advanced Excel, Statistics. I am looking for more data integration, data pipeline work with the aim of becoming a Business Intelligence Manager in the future.
 
 ## Projects Overview
@@ -22,7 +22,7 @@ This project contains a Python code to get the Premier League players data from 
 
 This code performs data manipulation on customer historical data to serve further data mining into customers behavior ( such as assets movement, correlation between customers activity and market activity)
 
-**5. Python_Harry Potter Movies dataset**
+**5. Python_Harry Potter Movies dataset visualization**
 
 This hobby project code performs some basic exploratory data analysis into the Harry Potter movies series.
 
@@ -40,6 +40,10 @@ Some dashboards made in Tableau using public dataset for dashboarding practice p
 
 **9. Python_Booking.com Web scraping using Selenium**
 
-Booking.com web scraping code based on freecodecamp tutorial.  
+Booking.com web scraping code based on freecodecamp tutorial.
+
+**10. Advanced SQL code practice**
+
+Use CTE, window functions and custom functions to create data analysis code.
 
 
